@@ -1,1 +1,1 @@
-Hey, I am Augusta Nwosu. I could write about how highly motivated I am or my heightened problem solving skills but no one wants to read that. Everyone wants to know what makes this eveloper unique, the actual story behind the drive and here it is: I am a biomedical engineer exploring the field of medical software development. I am currently learning the basics of this field. You can check my portfolio to see my progress (P.S I am currently learning react). I love the process just as much as I anticipate the result
+
