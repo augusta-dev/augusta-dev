@@ -1,9 +1,10 @@
 ![cover long](https://github.com/augusta-dev/augusta-dev/assets/109660213/5144a3e2-ef6d-42d6-899a-60cb0179379c)
-<h1 align='center'>Where it all comes together</h1>
+<h1 align='center'>Engineering: How It All Comes Together</h1>
 <p>Driven by a deep fascination with how technology can transform healthcare, I'm actively shaping my path as a medical software student. My journey began at Ankara University, where I master the art of biomedical engineering. Simultaneously, I'm a sponge for software engineering knowledge, seeking it from every source imaginable. I'm committed to merging these disciplines to create impactful solutions that improve lives.</p>
-This is my tech stack in the order of skills learned
 
-You would really love interacting with my portfolio. Check it out: 
+I'd love to share my portfolio with you. I think you'd really love interacting with it: https://augusta-dev.github.io/portfolio/
+<hr>
+<h4 align='center'>My Tech Stack</h4>
 
 ![Group 54](https://github.com/augusta-dev/augusta-dev/assets/109660213/16776b1b-ebe0-4d03-a231-356b68937ffd)
 ![Group 53](https://github.com/augusta-dev/augusta-dev/assets/109660213/50b06d5a-0767-43c2-b890-93ae31236c93)
@@ -28,3 +29,6 @@ You would really love interacting with my portfolio. Check it out:
 ![Group 57](https://github.com/augusta-dev/augusta-dev/assets/109660213/ee235439-a927-4f94-8be9-a4bad7f6606a)
 ![Group 56](https://github.com/augusta-dev/augusta-dev/assets/109660213/94cca54d-64a0-4c58-8f82-a05a217cb362)
 ![Group 55](https://github.com/augusta-dev/augusta-dev/assets/109660213/166d74e4-ea91-4684-b114-70dd542ed21b)
+
+<hr>
+<h4>My Portfolio Projects include:</h4>
