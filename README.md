@@ -4,7 +4,7 @@
 
 I'd love to share my portfolio with you. I think you'd enjoy interacting with it: https://augusta-dev.github.io/portfolio/
 <hr>
-<h4 align='center'>My Tech Stack</h4>
+<h3 align='center'>My Tech Stack</h3>
 
 ![Group 20](https://github.com/augusta-dev/augusta-dev/assets/109660213/675e1fa6-b687-40c1-9e28-926e81777d4c)
 ![Group 59](https://github.com/augusta-dev/augusta-dev/assets/109660213/8860c74c-933c-4cf1-84e6-efc1ab9a3dd7)
