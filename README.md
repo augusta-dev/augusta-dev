@@ -1,4 +1,4 @@
-![Uploading engineering3.png…]()
+![engineering3](https://github.com/augusta-dev/augusta-dev/assets/109660213/30e84fb7-1863-4e98-bbb8-a5817514f321)
 
 <h1 align='center'>Engineering: How It All Comes Together</h1>
 <p>Driven by a deep fascination with how technology can transform healthcare, I'm actively shaping my path as a medical software student. My journey began at Ankara University, where I master the art of Biomedical Engineering. Simultaneously, I'm a sponge for Software Engineering knowledge, seeking it from every source imaginable. I'm committed to merging these disciplines to create impactful solutions that improve lives.</p>
