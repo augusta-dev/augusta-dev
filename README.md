@@ -35,7 +35,7 @@ I'd love to share my portfolio with you. I think you'd enjoy interacting with it
 <h4>My Portfolio Projects include:</h4>
 <ol>
   <li>WordWise: Your Personal Dictionary📘: Designed in Figma, deployed on Vercel and built entirely in Next.js, this dictionary serves as a functional resource for language learners. Users only input a word, and the app provides its meanings, synonyms, and translations, facilitating the saving, reviewing, and remembering of new vocabulary. Please note it only works on a mobile screen. Check it out here: https://wordwise-woad.vercel.app </li>
-  <li>Joe's Store👔: I am presently building an e-commerce platform exclusively using Next.js and TypeScript. See my progress: https://next-store-sigma.vercel.app</li>
+  <li>Joe's Store👔: I am presently building an e-commerce platform exclusively using Next.js and TypeScript. See my progress: https://joe-s-store.vercel.app/</li>
   <li>Guessing Game🤔: Created in TypeScript with Nextjs, it is a fun guessing game to be played with friend with an accurate score keeper. https://tv-shows-guessing-game.vercel.app</li>
   <li>Verona Luxury Bags: I created the company's e-commerce website and actively manage and analyze its performance through Google Analytics. Additionally, I conduct regular updates and essential security checks. Visit here: https://veronaluxurybags.com </li>
   <li>Todo List App✅: Execution: React.js, Material Tailwind and Tailwind CSS. Design: Figma. Link: https://augusta-dev.github.io/todo-list/ </li>
