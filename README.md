@@ -2,7 +2,7 @@
 
 <h1 align='center'>Engineering: How It All Comes Together</h1>
 <p>Driven by a deep fascination with how technology can transform healthcare, I'm actively shaping my path as a medical software student. My journey began at Ankara University, where I master the art of Biomedical Engineering. Simultaneously, I'm a sponge for Software Engineering knowledge, seeking it from every source imaginable. I'm committed to merging these disciplines to create impactful solutions that improve lives.</p>
-<p> CV: [Augusta Nwosu's CV.pdf](https://github.com/user-attachments/files/16802396/Augusta.Nwosu.s.CV.pdf) </p>
+<p> CV: https://github.com/user-attachments/files/16802439/Augusta.Nwosu.CV.pdf </p>
 I'd love to share my portfolio with you. I think you'd enjoy interacting with it: https://augusta-dev.github.io/portfolio/
 <hr>
 <h3 align='center'>My Tech Stack</h3>
