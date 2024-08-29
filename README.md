@@ -2,7 +2,7 @@
 
 <h1 align='center'>Engineering: How It All Comes Together</h1>
 <p>Driven by a deep fascination with how technology can transform healthcare, I'm actively shaping my path as a medical software student. My journey began at Ankara University, where I master the art of Biomedical Engineering. Simultaneously, I'm a sponge for Software Engineering knowledge, seeking it from every source imaginable. I'm committed to merging these disciplines to create impactful solutions that improve lives.</p>
-
+<p> CV: [Augusta Nwosu's CV.pdf](https://github.com/user-attachments/files/16802396/Augusta.Nwosu.s.CV.pdf) </p>
 I'd love to share my portfolio with you. I think you'd enjoy interacting with it: https://augusta-dev.github.io/portfolio/
 <hr>
 <h3 align='center'>My Tech Stack</h3>
@@ -30,7 +30,7 @@ I'd love to share my portfolio with you. I think you'd enjoy interacting with it
 ![Group 51](https://github.com/augusta-dev/augusta-dev/assets/109660213/923e1834-c0de-494f-91f8-820acfd60de8)
 ![Group 49](https://github.com/augusta-dev/augusta-dev/assets/109660213/c45be740-ee5d-46de-9853-11c0011ce636)
 ![Group 47](https://github.com/augusta-dev/augusta-dev/assets/109660213/e0312ed6-b7c6-41a8-af56-326ad76ac7fa)
-CV: [Augusta Nwosu's CV.pdf](https://github.com/user-attachments/files/16802396/Augusta.Nwosu.s.CV.pdf)
+
 
 <hr>
 <h4>My Portfolio Projects include:</h4>
