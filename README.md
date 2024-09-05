@@ -2,7 +2,7 @@
 
 <h1 align='center'>Engineering: How It All Comes Together</h1>
 <p>Driven by a deep fascination with how technology can transform healthcare, I'm actively shaping my path as a medical software student. My journey began at Ankara University, where I master the art of Biomedical Engineering. Simultaneously, I'm a sponge for Software Engineering knowledge, seeking it from every source imaginable. I'm committed to merging these disciplines to create impactful solutions that improve lives.</p>
-<p> CV: https://github.com/user-attachments/files/16802439/Augusta.Nwosu.CV.pdf </p>
+<p> CV: https://github.com/user-attachments/files/16892809/Augusta.Nwosu.s.CV.pdf</p>
 I'd love to share my portfolio with you. I think you'd enjoy interacting with it: https://augusta-dev.github.io/portfolio/
 <hr>
 <h3 align='center'>My Tech Stack</h3>
@@ -44,7 +44,7 @@ I'd love to share my portfolio with you. I think you'd enjoy interacting with it
   <li>Todo List App✅: Execution: React.js, Material Tailwind and Tailwind CSS. Design: Figma. Link: https://augusta-dev.github.io/todo-list/ </li>
   <li>Food Ordering App🍔: Execution: React.js, Next UI and Tailwind CSS. Design: Figma. Link:https://augusta-dev.github.io/food-ordering-app/</li>
   <li>The MRI Scanner🦴: This website is designed for engineering and medical students, aiming to showcase the significance, complexities, and physics underlying the MRI scanner. This is the link to the app: https://augusta-dev.github.io/MRI-Scanner </li>
-  <li>Light With Sparkles🌟: This website is crafted to exhibit the client’s scented candles. The website can be seen here: https://lightwithsparkles.com</li>
+  <li>Light With Sparkles🌟: This website is crafted to exhibit the client’s scented candles. The website can be seen here: https://augusta-dev.github.io/Light-With-Sparkles/</li>
   <li>My Portfolio: Commemorating all my efforts, the peak of my creativity: https://augusta-dev.github.io/portfolio/</li>
 </ol>
 
